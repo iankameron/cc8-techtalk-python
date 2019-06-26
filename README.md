@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Python 3.7
 - virtualenv
-- node.js (if you want to run JS post-processing scripts)
+- node.js or other JS engine (if you want to run post-processing scripts written in JS)
 
 ### Installing/how to use
 
@@ -21,7 +21,8 @@ These instructions will get you a copy of the project up and running on your loc
 - Clone to local
 - Initiate virtualenv
 - source bin/activate
-- python
+- python xxxx.py
+- deactivate
 
 ## What's in the Repository
 
